@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @ByteToMight
+### 👋 Hi, I’m Andreas - @ByteToMight
 
 - 👀 I’m interested in AI, AI Automation, ML, and agent-based workflows.
   
