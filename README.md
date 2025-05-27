@@ -13,7 +13,7 @@
   
 - 😄 Pronouns: he/him
   
-- ⚡ Fun fact: I’m documenting my learning publicly through the **#100DaysOfAI** challenge to stay accountable and reflect on my progress.
+- ⚡ Fun fact: I’m documenting my learning publicly on LinkedIn through the **#100DaysOfAI** challenge to stay accountable and reflect on my progress.
 
 <!---
 ByteToMight/ByteToMight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
